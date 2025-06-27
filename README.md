@@ -136,7 +136,7 @@ interface Portfolio {
 ## 📈 Future Enhancements
 
 ### Potential Improvements
-- Integration with real market data APIs (Alpha Vantage, Yahoo Finance)
+- Integration with real market data APIs
 - Advanced charting with price history
 - Portfolio analytics and performance metrics
 - Price alerts and notifications
